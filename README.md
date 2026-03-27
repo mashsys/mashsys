@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=mashcim&color=ff69b4&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=sudeimamoglu&color=ff69b4&style=for-the-badge" alt="Visitor Count"/>
 </div>
 
 <h1 align="center">✨ Hi, I'm Zeynep Sude</h1>
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a dedicated software development student with 
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashcim&theme=radical&hide_border=true&background=1a1a2e&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeimamoglu&theme=radical&hide_border=true&background=1a1a2e&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
 </div>
 
 ---
@@ -79,10 +79,6 @@ Welcome to my GitHub profile! I'm a dedicated software development student with 
 ![Status](https://img.shields.io/badge/Status-Actively%20Learning-ff69b4?style=for-the-badge&logo=github&logoColor=black)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-ff69b4?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![Experience](https://img.shields.io/badge/Level-Junior%20Dev-ff69b4?style=for-the-badge&logo=code&logoColor=black)
-<!-- <div align="center">
-  <img height="180em" src="https://fakeimg.pl/400x180/1a1a2e/f39c12/?text=Commits&font=lobster"/>
-  <img height="180em" src="https://fakeimg.pl/400x180/1a1a2e/f39c12/?text=Top+Languages&font=lobster"/>
-</div> -->
 
 ---
 
@@ -91,16 +87,13 @@ Welcome to my GitHub profile! I'm a dedicated software development student with 
 ![CTF](https://img.shields.io/badge/CTF-Player-ff69b4?style=for-the-badge&logo=tryhackme&logoColor=black)
 ![Security](https://img.shields.io/badge/Ethical-Hacker-ff69b4?style=for-the-badge&logo=protonvpn&logoColor=black)
 ![Learning](https://img.shields.io/badge/Always-Learning-ff69b4?style=for-the-badge&logo=bookstack&logoColor=black)
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mashcim&theme=radical&no-frame=true"/>
-</div> -->
 
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mashcim&theme=radical&hide_border=true&bg_color=1a1a2e&color=f39c12&line=f39c12&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeimamoglu&theme=radical&hide_border=true&bg_color=1a1a2e&color=f39c12&line=f39c12&point=ffffff"/>
 </div>
 
 ---
