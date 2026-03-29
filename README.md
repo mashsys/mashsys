@@ -98,7 +98,9 @@ Welcome to my GitHub profile! I'm a dedicated software development student with 
 
 ---
 
-*"In the world of cybersecurity, the best defense is a good offense."*
+<div align="center">
+<i>"In the world of cybersecurity, the best defense is a good offense."</i>
+</div>
 
 ---
 
