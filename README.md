@@ -27,6 +27,22 @@ I build, break, and improve software while growing my skills in cybersecurity an
 
 🚧 **Developer portfolio** - A small, accessible project showcasing my progress and experiments.
 
+## Stats
+
+<!-- PROFILE_STATS:START -->
+| Public repos | Private repos | Stars | Forks |
+| ---: | ---: | ---: | ---: |
+| 1 | Unavailable | 1 | 0 |
+
+**Primary language mix**
+
+_No primary language data available yet._
+
+_Private repository count: available via `PROFILE_README_TOKEN`._
+<!-- PROFILE_STATS:END -->
+
+The workflow uses public repository data by default. To include the private repository count, add a fine-grained PAT with read-only **Metadata** access as the `PROFILE_README_TOKEN` repository secret. Private repository names, code, and individual details are never written here.
+
 ## Open-source direction
 
 I am working toward beginner-friendly documentation, responsible security reports, and useful tools that help people learn safely.
