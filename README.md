@@ -1,54 +1,36 @@
 <div align="center">
 
-# Hi, I'm Zeynep Sude
+<img src="https://komarev.com/ghpvc/?username=mashsys&color=7c3aed&style=flat-square" alt="Profile visitor count" />
 
-### Cybersecurity-minded software developer
+# Hi, I'm Zeynep Sude 👋
 
-I’m a software development student building practical skills at the intersection of secure systems, web development, and thoughtful problem-solving. I enjoy learning how applications work, how they fail, and how to make them more resilient.
+### Cybersecurity learner · Software developer
 
-[![GitHub](https://img.shields.io/badge/GitHub-mashsys-181717?style=flat&logo=github&logoColor=white)](https://github.com/mashsys)
+I build, break, and improve software while growing my skills in cybersecurity and secure development.
+
+[![GitHub](https://img.shields.io/badge/GitHub-mashsys-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashsys)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)](https://www.linux.org/)
 
 </div>
 
-## What I’m focused on
+## What I do
 
-- **Security foundations:** ethical security testing, network fundamentals, Linux, and secure development habits
-- **Building:** small, useful applications that improve my engineering fundamentals
-- **Learning:** Python, JavaScript/TypeScript, web application security, and better testing practices
+- Learn ethical security testing, networking, and Linux
+- Build practical web and software projects
+- Explore application security, testing, and better engineering habits
 
-I’m early in my career and still learning every day. This profile is a record of that progress—not a list of claims about expertise.
+## Projects
 
-## Current toolkit
+🚧 **Secure web application lab** - A hands-on project for threat modeling, validation, and security testing.
 
-| Area | Tools and technologies |
-| --- | --- |
-| Languages | Python, JavaScript, TypeScript, Java, C++, Go |
-| Web | HTML, CSS, React, Vue, Tailwind CSS |
-| Security learning | Kali Linux, Burp Suite, Nmap, Wireshark, Metasploit |
-| Data and services | MySQL, PostgreSQL, MongoDB, Firebase |
-| Workflow | Git, Linux, Docker, VS Code, REST APIs |
+🚧 **Developer portfolio** - A small, accessible project showcasing my progress and experiments.
 
-## Featured projects
+## Open-source direction
 
-There are no mature public repositories to feature here yet. I’m using this space intentionally so future projects can be highlighted with useful context rather than placeholders that overstate their status.
+I am working toward beginner-friendly documentation, responsible security reports, and useful tools that help people learn safely.
 
-Upcoming project directions:
+## Connect
 
-- **Secure web application lab** — a small application for practicing threat modeling, input validation, and security testing
-- **Developer portfolio project** — a focused project demonstrating accessible UI, a documented API, and repeatable tests
-
-When these projects are ready, this section will include links, a short summary, and the lessons learned.
-
-## Open-source goals
-
-I’d like to contribute through:
-
-- Clear documentation and beginner-friendly fixes
-- Small security improvements and responsible issue reports
-- Practical projects that help other learners experiment safely
-
-## Find me
-
-- **GitHub:** [@mashsys](https://github.com/mashsys)
-
-> This is the only public contact link currently listed. Additional social links can be added here when they are ready to share.
+**GitHub:** [@mashsys](https://github.com/mashsys)
